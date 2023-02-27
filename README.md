@@ -1,6 +1,11 @@
-Bài tập lớn môn Kĩ Thuật Lập Trình C/C++ 
+Bài tập lớn môn Kĩ Thuật Lập Trình C/C++ 	
+
 ĐỀ TÀI: Pizza Delivery Website
-GVHD: Hoàng Quang Huy 
+
+GVHD: Hoàng Quang Huy
+
+Nhóm: 08
+
 Sinh viên Thực Hiện: Nguyễn Huy Toàn - 20203890
                      Đào Trọng Nghĩa - 20200433
                      
